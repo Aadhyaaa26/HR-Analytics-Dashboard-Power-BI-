@@ -51,8 +51,9 @@ with department-level filtering (Human Resources, Research & Development, Sales)
 - **Data Modeling** — relationships between employee attributes
 
 ## Data Source
-[Add dataset name/link here — e.g., IBM HR Analytics Employee Attrition & 
-Performance dataset (Kaggle)]
+IBM HR Analytics Employee Attrition & 
+Performance dataset (Kaggle)
+(https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)
 
 ## Screenshots
 **![Dashboard Overview]**
