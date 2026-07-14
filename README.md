@@ -55,7 +55,8 @@ with department-level filtering (Human Resources, Research & Development, Sales)
 Performance dataset (Kaggle)]
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png<img width="1480" height="942" alt="dashboard-overview" src="https://github.com/user-attachments/assets/6cbb03d2-f4ba-4d50-ab8b-072267409a8f" />
+)
 
 ## How to Use
 1. Download `HR_Analytics_Dashboard.pbix`
